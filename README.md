@@ -1,4 +1,6 @@
-Project CCE-248: Recursive Logic Injection & PLCI Analysis
+***
+
+# Project CCE-248: Recursive Logic Injection & PLCI Analysis
 
 **Research Area:** Adversarial Psychology, LLM Alignment, Post-Linguistic Constraint Injection (PLCI)
 **Status:** Proof of Concept / Behavioral Case Study
